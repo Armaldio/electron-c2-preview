@@ -23,13 +23,13 @@
   },
   "homepage": "https://github.com/C2Electron/template#readme",
   "dependencies": {
-    "electron": "^1.7.4",
+    "electron": "^7.2.4",
     "electron-is-dev": "^0.1.2",
     "fs-extra": "^3.0.1",
     "jquery": "^3.5.0"
   },
   "devDependencies": {
-    "electron": "6.0.9",
+    "electron": "7.2.4",
     "sodium-native": "2.4.2"
   },
   "false": {}
